@@ -21,10 +21,13 @@
 - [Laravel](https://github.com/laravel/laravel) - 面向 Web 工匠的 PHP 框架
   - [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel 调试栏
   - [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - Laravel IDE 助手
+  - [laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - Laravel 和 MongoDB 集成
   - [laravel-modules](https://github.com/nWidart/laravel-modules) - Laravel 模块管理
+  - [larastan](https://github.com/larastan/larastan) - Laravel 静态代码分析
   - [tenancy](https://github.com/archtechx/tenancy) - 多租户
   - [tenancy](https://github.com/tenancy/tenancy) - 多租户
   - [apiato](https://github.com/apiato/apiato) - 在 Laravel 之上构建可扩展的 API
+  - [Filament](https://github.com/filamentphp/filament) - Laravel 全栈组件集
 - [Symfony](https://github.com/symfony/symfony) - 用于 Web 开发的高性能 PHP 框架
 - [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - 具有强大功能的小框架
 - [Swoole](https://github.com/swoole/swoole-src) - PHP 协程框架
@@ -41,11 +44,18 @@
 - [FrankenPHP](https://github.com/dunglas/frankenphp) - 现代 PHP 应用服务器
 - [AMPHP](https://github.com/amphp/amp) - PHP 事件驱动库
 - [ThinkPHP](https://github.com/top-think/framework) - 轻量级 PHP 框架
+- [MixPHP](https://github.com/mix-php/mix) - 命令行模式开发框架
+- [imi](https://github.com/imiphp/imi) - 长连接微服务分布式开发框架
 - [Saloon](https://github.com/saloonphp/saloon) - 构建漂亮的 API 集成和 SDK
 
 ### Python
 
 - [Django](https://github.com/django/django) - 高级 Python Web 框架
+  - [django-rest-framework](https://github.com/encode/django-rest-framework) - Django REST 框架
+  - [cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - 快速启动生产就绪 Django 项目的框架
+  - [django-allauth](https://github.com/pennersr/django-allauth) - 集成身份验证
+  - [django-ninja](https://github.com/vitalik/django-ninja) - 快速 Django REST 框架
+  - [graphene-django](https://github.com/graphql-python/graphene-django) - 集成 GraphQL
 - [FastAPI](https://github.com/tiangolo/fastapi) - 现代、快速（高性能）的 Web 框架
 - [Flask](https://github.com/pallets/flask) - Python 微框架
 
@@ -69,6 +79,7 @@
 - [Jupiter](https://github.com/douyu/jupiter) - 面向治理的微服务框架
 - [Goravel](https://github.com/goravel/goravel) - 面向 Web 工匠的 Go 框架
 - [Eagle](https://github.com/go-eagle/eagle) - 基于 Go 构建的微服务框架
+- [EGO](https://github.com/gotomicro/ego) - 基于组件的 Go 微服务套件
 
 ### Rust
 
@@ -91,11 +102,16 @@
 
 - [PHP](https://github.com/ziadoz/awesome-php) - PHP 资源
 - [Python](https://github.com/vinta/awesome-python) - Python 资源
+  - [Django](https://github.com/wsvincent/awesome-django) - Django 相关
+  - [FastAPI](https://github.com/mjhea0/awesome-fastapi) - FastAPI 相关
 - [Go](https://github.com/avelino/awesome-go) - Go 资源
 - [Rust](https://github.com/rust-unofficial/awesome-rust) - Rust 资源
+  - [Deno](https://github.com/denolib/awesome-deno) - Deno 相关
 
 ### 书籍
 
+- [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) - Laravel 最佳实践
+- [fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI 最佳实践
 - [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - Go 入门指南
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - Google 的 Rust 课程
 - [rust-course](https://github.com/sunface/rust-course) - Rust 语言圣经
